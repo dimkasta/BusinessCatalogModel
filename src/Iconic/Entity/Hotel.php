@@ -16,5 +16,23 @@ class Hotel
     public $slug;
     public $rank;
     public $rankType;
-    public $actions;
+
+    public $bookingLink;
+    public $tripAdvisorLink;
+    public $expediaLink;
+
+    public $address;
+    public $number;
+    public $area;
+    public $city;
+    public $state;
+    public $country;
+
+    public $phone1;
+    public $phone2;
+    public $fax;
+    public $email;
+    public $website;
+
+    public $published;
 }

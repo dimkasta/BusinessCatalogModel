@@ -4,12 +4,20 @@
 namespace Iconic;
 
 
+use Iconic\Entity\Hotel;
+
 abstract class Repository
 {
+
+    /**
+     * @var Hotel
+     */
+    protected $item;
+
     /**
      * @var RepositoryProvider
      */
-    private $repositoryProvider;
+    protected $repositoryProvider;
 
     public function __construct(RepositoryProvider $repositoryProvider)
     {
@@ -17,5 +25,7 @@ abstract class Repository
     }
 
     abstract public function upsert($identifier = null);
-    abstract public function save();
+    public function save(){
+        $this->repositoryProvider->save($this->item);
+    }
 }

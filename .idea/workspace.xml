@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b02ab0a-5d7d-43ab-867f-9d3679c54324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Entity/Hotel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Hotel/Repository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Model/Branch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Model/Business.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Projection/HotelSearch/Result.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Projection/HotelSearch/ResultAction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Projection/Search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/Repository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iconic/RepositoryProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/ElasticsearchProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TemplateModelProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TemplateModelProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Iconic/Entity/Hotel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/Entity/Hotel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Iconic/Hotel/Repository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/Hotel/Repository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Iconic/Repository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/Repository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Iconic/RepositoryProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/RepositoryProvider.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +93,7 @@
   <component name="ProjectId" id="1PrzneK1p4W0osmoRx9DR2bcd8a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -143,7 +134,7 @@
       <workItem from="1566650223942" duration="61000" />
       <workItem from="1566658526091" duration="853000" />
       <workItem from="1566758739060" duration="4735000" />
-      <workItem from="1566763997069" duration="4824000" />
+      <workItem from="1566763997069" duration="8161000" />
     </task>
     <task id="LOCAL-00001" summary="Changed PSR to 0 to work ok with phpspec autoloading">
       <created>1566658636318</created>
