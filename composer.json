@@ -1,0 +1,24 @@
+{
+    "name": "iconic/template-project",
+    "description": "Template that initiates phpspec and behat",
+    "type": "library",
+    "require-dev": {
+        "phpspec/phpspec": "^5.1",
+        "behat/behat": "^3.5",
+        "phpunit/phpunit": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimitris",
+            "email": "d.kastaniotis@iconic.gr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.2.1"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
