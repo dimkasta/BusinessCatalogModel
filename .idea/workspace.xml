@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Iconic/Entity/Hotel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/Entity/Hotel.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Iconic/Hotel/Repository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/Hotel/Repository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Iconic/Repository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/Repository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Iconic/RepositoryProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iconic/RepositoryProvider.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +132,7 @@
       <workItem from="1566650223942" duration="61000" />
       <workItem from="1566658526091" duration="853000" />
       <workItem from="1566758739060" duration="4735000" />
-      <workItem from="1566763997069" duration="8161000" />
+      <workItem from="1566763997069" duration="9010000" />
     </task>
     <task id="LOCAL-00001" summary="Changed PSR to 0 to work ok with phpspec autoloading">
       <created>1566658636318</created>

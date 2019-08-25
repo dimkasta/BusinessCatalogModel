@@ -46,6 +46,10 @@ class Repository extends \Iconic\Repository
         return $this;
     }
 
+    //endregion
+
+    //region Actions
+
     public function setBookingLinkTo(string $url)
     {
         $this->item->bookingLink = $url;
